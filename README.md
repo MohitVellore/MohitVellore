@@ -33,4 +33,6 @@ I'm a recent graduate in Engineering Mathematics from the University of Bristol 
 ## Interests
 - UFC, MMA, Golf, Cycling, Powerlifting
 
+## [My CV](https://github.com/MohitVellore/MohitVellore/blob/main/Mohit%20Raj%20Vellore%20CV.pdf)
+
 Feel free to explore my repositories and connect with me on LinkedIn!
