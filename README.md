@@ -13,7 +13,7 @@ I'm a recent graduate in Engineering Mathematics from the University of Bristol 
 - **Tools**: Jupyter, Excel
 
 ## Projects
-### [Enhanced KMV Model]([https://github.com/MohitVellore/ML-Enhanced-DCF](https://github.com/MohitVellore/Enhanced-KMV-model)) - In progress
+### [Enhanced KMV Model](https://github.com/MohitVellore/Enhanced-KMV-model) - In progress
 This project extends the traditional KMV credit risk model by incorporating modern techniques to improve the prediction of future asset values and the estimation of default probabilities. Key enhancements include:
 - Monte Carlo Simulations: Used to simulate future asset value paths under various market conditions, providing a comprehensive view of potential future scenarios.
 - Machine Learning Algorithms: Implemented to predict future asset values more accurately, leveraging historical data and advanced statistical methods.
