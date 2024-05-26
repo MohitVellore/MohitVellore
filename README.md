@@ -13,7 +13,7 @@ I'm a recent graduate in Engineering Mathematics from the University of Bristol 
 - **Tools**: Jupyter, Excel
 
 ## Experience
-### Technical Research Paper - “Mathematical Modelling of the Peloton”
+### [Technical Research Paper - “Mathematical Modelling of the Peloton”](https://github.com/MohitVellore/Technical-Research-Paper-/tree/main)
 - Constructed an agent-based model to analyse peloton dynamics in professional road cycling, optimising rider performance for given scenarios.
 - Employed differential game theory, discrete physiological modelling, and parallel/high-performance computing.
 
