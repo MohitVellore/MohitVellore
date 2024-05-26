@@ -12,6 +12,10 @@ I'm a recent graduate in Engineering Mathematics from the University of Bristol 
 - **Financial Analysis**: Risk Management, Portfolio Optimisation, Quantitative Analysis
 - **Tools**: Jupyter, Excel
 
+## Projects
+### [Machine Learning Enhanced DCF](https://github.com/MohitVellore/ML-Enhanced-DCF)
+- Automates DCF valuation using machine learning and monte carlo simulations for different economics landscapes 
+
 ## Experience
 ### [Technical Research Paper - “Mathematical Modelling of the Peloton”](https://github.com/MohitVellore/Technical-Research-Paper-/tree/main)
 - Constructed an agent-based model to analyse peloton dynamics in professional road cycling, optimising rider performance for given scenarios.
