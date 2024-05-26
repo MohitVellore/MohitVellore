@@ -1,4 +1,4 @@
-# Hi, I'm Mohit Raj Vellore 👋
+# Hi, I'm Mohit Raj Vellore
 
 **Location**: London  
 **Email**: mohitvellore@gmail.com  
@@ -18,7 +18,7 @@ This project extends the traditional KMV credit risk model by incorporating mode
 - Monte Carlo Simulations: Used to simulate future asset value paths under various market conditions, providing a comprehensive view of potential future scenarios.
 - Machine Learning Algorithms: Implemented to predict future asset values more accurately, leveraging historical data and advanced statistical methods.
 - Support Vector Machines (SVM): Applied to classify firms into default and non-default categories based on financial metrics and market conditions, improving the accuracy of the Distance to Default (DD) calculations.
-- Ensemble Methods: Utilized to enhance the robustness of the Probability of Default (PD) predictions, combining multiple models to mitigate the risk of individual model biases and improve overall performance.
+- Ensemble Methods: Utilised to enhance the robustness of the Probability of Default (PD) predictions, combining multiple models to mitigate the risk of individual model biases and improve overall performance.
 
 ## Experience
 ### [Technical Research Paper - “Mathematical Modelling of the Peloton”](https://github.com/MohitVellore/Technical-Research-Paper-/tree/main)
