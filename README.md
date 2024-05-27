@@ -1,4 +1,4 @@
-# Hi, I'm Mohit Raj Vellore
+# Hi, I'm Mohit Vellore
 
 **Location**: London  
 **Email**: mohitvellore@gmail.com  
