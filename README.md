@@ -20,9 +20,18 @@ This project extends the traditional KMV credit risk model by incorporating mode
 - Support Vector Machines (SVM): Applied to classify firms into default and non-default categories based on financial metrics and market conditions, improving the accuracy of the Distance to Default (DD) calculations.
 - Ensemble Methods: Utilised to enhance the robustness of the Probability of Default (PD) predictions, combining multiple models to mitigate the risk of individual model biases and improve overall performance.
 
-### UFC Fight Forecast: Predicting Winners, Methods, and Rounds - Ongoing
-This Project is in collaboration with Lewis Newnham.
-- TBC
+### [UFC Fight Forecast: Predicting Winners, Methods, and Rounds](https://github.com/MohitVellore/UFC-Fight-Forecast-Predicting-Winners-Methods-and-Rounds-.git) - Ongoing
+The UFC Fight Predictor project aims to analyse UFC fight statistics and video footage to make better informed decisions for matches and betting predictions. The predictions will include the fight winner, method of victory, round, and real-time analysis during fights. This project will be developed through several iterations, each adding more functionality and improving accuracy.
+
+**In collaboration with Lewis Newnham**
+#### Iterations:
+- **Iteration 1:** Web scraping and initial prediction
+- **Iteration 2:** Method and round prediction
+- **Iteration 3:** Accumulator style prediction
+- **Iteration 4:** Computer vision for boxing analysis
+- **Iteration 5:** Computer vision for clinch and submissions
+- **Iteration 6:** Comprehensive computer vision analysis
+- **Iteration 7:** Advanced computer vision and live data visualization
 
 ## Experience
 ### [Technical Research Paper - “Mathematical Modelling of the Peloton”](https://github.com/MohitVellore/Technical-Research-Paper-/tree/main)
