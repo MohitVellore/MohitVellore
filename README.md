@@ -21,6 +21,7 @@ This project extends the traditional KMV credit risk model by incorporating mode
 - Ensemble Methods: Utilised to enhance the robustness of the Probability of Default (PD) predictions, combining multiple models to mitigate the risk of individual model biases and improve overall performance.
 
 ### UFC Fight Forecast: Predicting Winners, Methods, and Rounds - Ongoing
+This Project is in collaboration with Lewis Newnham.
 - TBC
 
 ## Experience
