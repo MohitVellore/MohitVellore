@@ -13,13 +13,6 @@ I'm a recent graduate in Engineering Mathematics from the University of Bristol 
 - **Tools**: Jupyter, Excel
 
 ## Projects
-### [Enhanced KMV Model](https://github.com/MohitVellore/Enhanced-KMV-model) - Planned for September till November
-This project extends the traditional KMV credit risk model by incorporating modern techniques to improve the prediction of future asset values and the estimation of default probabilities. Key enhancements include:
-- Monte Carlo Simulations: Used to simulate future asset value paths under various market conditions, providing a comprehensive view of potential future scenarios.
-- Machine Learning Algorithms: Implemented to predict future asset values more accurately, leveraging historical data and advanced statistical methods.
-- Support Vector Machines (SVM): Applied to classify firms into default and non-default categories based on financial metrics and market conditions, improving the accuracy of the Distance to Default (DD) calculations.
-- Ensemble Methods: Utilised to enhance the robustness of the Probability of Default (PD) predictions, combining multiple models to mitigate the risk of individual model biases and improve overall performance.
-
 ### [UFC Fight Forecast: Predicting Winners, Methods, and Rounds](https://github.com/MohitVellore/UFC-Fight-Forecast-Predicting-Winners-Methods-and-Rounds-.git) - Ongoing
 The UFC Fight Predictor project aims to analyse UFC fight statistics and video footage to make better informed decisions for matches and betting predictions. The predictions will include the fight winner, method of victory, round, and real-time analysis during fights. This project will be developed through several iterations, each adding more functionality and improving accuracy. Key activities include:
 - Implement web scraping scripts to collect and preprocess data on fighters involved in upcoming UFC bouts.
